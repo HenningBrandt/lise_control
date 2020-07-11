@@ -1,0 +1,4 @@
+wiring:
+  - pinIn: 1
+    pinOut: 2
+    isPullUp: true
